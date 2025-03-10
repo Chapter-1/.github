@@ -7,7 +7,7 @@
 :two: 맞춤형 정책 추천, 자산관리 도구, 부동산 정보를 제공하여 청년들의 경제적 부담을 줄이고 안정적인 미래 설계를 지원
 
 ## 배포 주소
-https://chapter-1.github.io/frontend/ (ID :  tester01, PW: 1234*)
+https://chapter1.blu2print.site/ (ID :  tester01, PW: 1234*)
 
 ## **프로젝트 기간**
 : 2024.10.07 ~ 2024.11.21 (7주) <br/>
